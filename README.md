@@ -2,7 +2,7 @@ This respository is experimented as the minimum project file in Mobile way for a
 Packages in the project:  
 1. ARFoundation 4.1.7  
 2. ARKit XR Plugin  4.1.7  
-3. OSCJackVS (Regenerate Units in Project Settings - Visual Scripting)  
+3. extOSC (Deprecate OscJackVS due to the invalidity on iOS)  
 4. Unity's Starter Assets - Third Person Character Controller  
 5. Post Processing 3.1.1  
 6. Probuilder  
